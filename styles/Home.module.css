@@ -70,6 +70,35 @@ section {
   margin-top: .2em;
 }
 /* encore autre */
+.hero .left-col .primary-cta {
+  background: var(--primary-color);
+  color: #fff;
+  text-decoration: none;
+  padding: .6em 1.3em;
+  font-size: 1.4em;
+  border-radius: 5em;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.hero .left-col .watch-video-cta {
+  display: block;
+  margin-top: 1em;
+}
+
+.hero .left-col .watch-video-cta img {
+  margin-right: .5em;
+}
+
+.hero .hero-img {
+  width: 70%;
+  margin-top: 3em;
+}
+
+
+
+
+
 
 .footer a {
   display: flex;
